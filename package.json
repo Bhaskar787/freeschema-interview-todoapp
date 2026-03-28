@@ -1,0 +1,19 @@
+{
+  "name": "Freeschema todo-app",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --force",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "mftsccs-browser": "^2.1.64-beta"
+  },
+  "description": "This is a data fabric project that unifies frontend and backend",
+  "main": "src/main.js"
+}
